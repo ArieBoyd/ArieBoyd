@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @ArieBoyd
+- 👋 Hi, I’m @ArielBoyd
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning SQL and Sas
+- 🌱 I’m currently learning SQL, SAS, and Tableau
 - 💞️ I’ve learned R/RStudio, PyCharm, MATLAB, and Weka
-- 📫 How to reach me LinkedIn or email
-- 😄 Pronouns: She/Her
+- 📫 How to reach me LinkedIn
 - ⚡ Fun fact: I love to read and shop 
 
 <!---
